@@ -5,7 +5,7 @@ public class MainClass {
         Robot robot = new Robot();
 
         // Kendi çalışanlarınız
-        kendiCalisanlar.Work(); // John Doe çalışanı, Muhasebe bölümünde çalışıyor. Çalışma saatleri: 8-17
+        kendiCalisanlar.Work(); 
         System.out.println("Kendi Çalışan Adı: " + kendiCalisanlar.getAd());
 
         // Firma çalışanları
